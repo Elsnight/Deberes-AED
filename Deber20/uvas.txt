@@ -1,0 +1,5 @@
+Tipo de uva:B
+Tamanio de uva:2
+precio de uva:10
+Kilo de uva:5
+ Total :47.5
