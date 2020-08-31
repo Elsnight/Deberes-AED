@@ -1,0 +1,13 @@
+Ingrese el numero de ventas :5
+Ingrese la venta 1:501
+Ingrese la venta 2:1020
+Ingrese la venta 3:45
+Ingrese la venta 4:2052
+Ingrese la venta 5:96
+mayores a 1000 :2
+mayor a 500 menos a 1000 :1
+menores a 500 :2
+Total ventas mayores 1000 :3072
+Total ventas mayores 500 :501
+Total ventas menores 1000 :141
+Total ventas :3714
